@@ -1,0 +1,3 @@
+name: 极简模式 (Windows)
+description: 极简模式的 Windows 修复版：用 PowerShell 代替 bash，提供 pwsh 与 str_replace_editor 双工具。
+order: 5
